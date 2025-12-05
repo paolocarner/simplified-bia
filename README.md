@@ -97,7 +97,7 @@ This template is available under the [MIT License](LICENSE). You're free to use 
 
 ## About
 
-Created by [Paolo Carner](https://paolocarner.com) as part of [BARE Cybersecurity](https://barecybersecurity.nl), a boutique cybersecurity consultancy serving European SMBs and startups.
+Created by [Paolo Carner](https://paolocarner.com) as part of [BARE Cybersecurity](https://bare-cybersecurity.com), a boutique cybersecurity consultancy serving European SMBs and startups.
 
 **Need help completing your BIA or want a second opinion on your results?** Get in touch through [the website](https://paolocarner.com/contact).
 
